@@ -44,3 +44,7 @@ dist-sourcemaps/
 
 # Alchemy local state + bundle artifacts (SaaS deploys)
 .alchemy/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
